@@ -8,7 +8,7 @@ import { HiArrowRight } from "react-icons/hi";
 
 import profile from "../../data/profile";
 import resumePDF from "../../assets/Mohit Resume.pdf"
-import photo from "../../assests/Photo-Placement.png"
+import photo from "../../assets/Photo-Placement.png"
 import {Link} from "react-scroll";
 
 export default function Hero() {
@@ -180,7 +180,7 @@ export default function Hero() {
             >
               <div className="w-full h-full rounded-full bg-slate-950 flex items-center justify-center overflow-hidden">
                 <img
-                  src=photo
+                  src={photo}
                   alt="Profile"
                   className="w-[390px] h-[390px] rounded-full object-cover"
                 />
