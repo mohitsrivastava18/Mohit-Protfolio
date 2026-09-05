@@ -4,9 +4,9 @@ const education = [
     degree: "Master of Computer Applications (MCA)",
     institute: "Presidency College, Bengaluru",
     duration: "2024 - 2026",
-    score: "CGPA: 8.7 / 10",
+    score: "CGPA: 8.93 / 10",
     description:
-      "Focused on Full Stack Development, Data Structures, Database Management Systems, Artificial Intelligence and Software Engineering.",
+      "Focused on Full Stack Development, Data Structures and Algorithms, Database Management Systems,Data Analysis using Python, Artificial Intelligence and Software Engineering.",
   },
 
   {
