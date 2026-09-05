@@ -63,11 +63,12 @@ export default function About() {
             </h3>
 
             <p className="text-slate-400 leading-9">
-              I am a Final Year MCA student passionate about
-              developing scalable and responsive web applications.
-              I enjoy transforming ideas into interactive digital
-              experiences using React, JavaScript and modern web
-              technologies.
+              I am a recent MCA graduate with a passion for developing scalable,
+              responsive, and user-friendly web applications.
+              I enjoy transforming ideas into engaging digital experiences using
+              React, JavaScript, and modern web technologies, 
+              while continuously learning and improving my development skills.
+
             </p>
 
             <div className="mt-10 space-y-6">
