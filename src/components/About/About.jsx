@@ -20,8 +20,8 @@ const stats = [
     title: "Years Learning",
   },
   {
-    number: "MCA",
-    title: "Final Year",
+   number: "MCA",
+   title: "Graduate 2026",
   },
 ];
 
@@ -85,7 +85,7 @@ export default function About() {
 
                 <GraduationCap className="text-cyan-400"/>
 
-                <span>MCA Final Year</span>
+                <span>MCA Graduate</span>
 
               </div>
 
@@ -101,7 +101,7 @@ export default function About() {
 
                 <Code2 className="text-yellow-400"/>
 
-                <span>Frontend & MERN Developer</span>
+                <span>Full-Stack Developer</span>
 
               </div>
 
